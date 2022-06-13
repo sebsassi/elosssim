@@ -1,7 +1,7 @@
 Energy loss simulation database
 ===============================
 
-This repository contains the data from molecular dynamics simulations of energy loss to crystal defects from nuclear recoils, presented in [...].
+This repository contains the data from molecular dynamics simulations of energy loss to crystal defects from nuclear recoils.
 
 For compund materials there is one file for each element in the material, corresponding to the element of the recoiling nucleus.
 
