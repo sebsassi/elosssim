@@ -3,6 +3,8 @@ Energy loss simulation database
 
 This repository contains the data from molecular dynamics simulations of energy loss to crystal defects from nuclear recoils, presented in [...].
 
+For compund materials there is one file for each element in the material, corresponding to the element of the recoiling nucleus.
+
 The data files are formatted as follows:
 
 1. The file begins with a header that contains the lengths of the rectangular cuboid unit cell defining the crystal lattice in the simulation coordinates.
